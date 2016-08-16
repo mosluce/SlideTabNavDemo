@@ -44,6 +44,24 @@
             </objects>
             <point key="canvasLocation" x="2548" y="756"/>
         </scene>
+        <!--Right View Controller-->
+        <scene sceneID="KGw-79-gLh">
+            <objects>
+                <viewController storyboardIdentifier="Right" id="kXU-2p-moa" customClass="RightViewController" customModule="HelloTabNavBar" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="WWr-SF-i5n"/>
+                        <viewControllerLayoutGuide type="bottom" id="qKi-tO-2Dx"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Gh6-Gc-WAm">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="aZ9-Eh-FcJ" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2538" y="1445"/>
+        </scene>
         <!--Item-->
         <scene sceneID="nF9-XS-BPl">
             <objects>

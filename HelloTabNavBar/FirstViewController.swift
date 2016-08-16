@@ -23,6 +23,12 @@ class FirstViewController: UIViewController {
         print("FirstViewController viewWillAppear")
     }
     
+    override func viewDidAppear(animated: Bool) {
+        super.viewDidAppear(animated)
+        
+        print("FirstViewController viewDidAppear")
+    }
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.

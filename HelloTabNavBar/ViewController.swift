@@ -17,6 +17,9 @@ class ViewController: SlideMenuController {
         if let controller = self.storyboard?.instantiateViewControllerWithIdentifier("Left") {
             self.leftViewController = controller
         }
+        if let controller = self.storyboard?.instantiateViewControllerWithIdentifier("Right") {
+            self.rightViewController = controller
+        }
         super.awakeFromNib()
     }
     

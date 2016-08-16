@@ -16,6 +16,7 @@
 		44B2FD831D62B77C007076CD /* LeftViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44B2FD821D62B77C007076CD /* LeftViewController.swift */; };
 		44B2FD851D62B79E007076CD /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44B2FD841D62B79E007076CD /* FirstViewController.swift */; };
 		44B2FD871D62B7A9007076CD /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44B2FD861D62B7A9007076CD /* SecondViewController.swift */; };
+		44B2FD891D62B921007076CD /* RightViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44B2FD881D62B921007076CD /* RightViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		44B2FD821D62B77C007076CD /* LeftViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LeftViewController.swift; sourceTree = "<group>"; };
 		44B2FD841D62B79E007076CD /* FirstViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 		44B2FD861D62B7A9007076CD /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		44B2FD881D62B921007076CD /* RightViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RightViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				44B2FD701D62B2BD007076CD /* ViewController.swift */,
 				44B2FD801D62B5E3007076CD /* SlideMenuController.swift */,
 				44B2FD821D62B77C007076CD /* LeftViewController.swift */,
+				44B2FD881D62B921007076CD /* RightViewController.swift */,
 				44B2FD841D62B79E007076CD /* FirstViewController.swift */,
 				44B2FD861D62B7A9007076CD /* SecondViewController.swift */,
 				44B2FD721D62B2BD007076CD /* Main.storyboard */,
@@ -148,6 +151,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				44B2FD871D62B7A9007076CD /* SecondViewController.swift in Sources */,
+				44B2FD891D62B921007076CD /* RightViewController.swift in Sources */,
 				44B2FD851D62B79E007076CD /* FirstViewController.swift in Sources */,
 				44B2FD711D62B2BD007076CD /* ViewController.swift in Sources */,
 				44B2FD831D62B77C007076CD /* LeftViewController.swift in Sources */,
